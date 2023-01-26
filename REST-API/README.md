@@ -1,0 +1,1 @@
+Built an Application Programming Interface (API) that connects to a database using `Flask` and `PostgreSQL`. This to-do-list program can retrieve data from the database, as well as add, update, and delete data in the database in JSON format using `Insomnia REST Client`.
