@@ -1,0 +1,1 @@
+This project performed Web Scraping of websites such as espn.com, worldometers.info, and tokopedia.com. The primary tools for the scraping were `Beautiful Soup` and `Selenium`. The data to be scraped can be seen on the jupyter notebooks.
